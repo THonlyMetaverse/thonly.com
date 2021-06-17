@@ -3,7 +3,7 @@ html {
 }
 body {
     margin: 0;
-    background:lightcyan;
+    background:linear-gradient(lightblue, lightgreen);
     display:flex;
     flex-direction: column;
     justify-content: space-evenly;
