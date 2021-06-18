@@ -1,6 +1,10 @@
+html {
+    font-size: medium;
+}
+
 body {
     margin: 0;
-    background: lightcyan;
+    background: linear-gradient(lightcyan, lightgreen);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -47,6 +51,20 @@ footer {
     align-items: center;
 }
 
+
 img {
     width: 100%;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+a:not(p > a), select, small {
+    font-size: 1.1rem;
 }
