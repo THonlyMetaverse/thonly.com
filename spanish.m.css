@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    background: linear-gradient(lightcyan, lightgreen);
+    background: linear-gradient(lightblue, lightgreen);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
