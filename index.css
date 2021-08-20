@@ -64,6 +64,8 @@ img {
 
 p {
     font-size: 2rem;
+    text-align: center;
+    padding: 10px;
 }
 
 a:not(p > a), select, small {
