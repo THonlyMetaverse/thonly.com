@@ -1,4 +1,5 @@
 html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
 }
 
@@ -68,6 +69,10 @@ p {
     padding: 10px;
 }
 
-a:not(p > a), select, small {
+ul {
+    font-size: 1.8rem;
+}
+
+a:not(main a), select, small {
     font-size: 1.5rem;
 }
