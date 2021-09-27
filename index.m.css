@@ -44,6 +44,10 @@ main {
     text-align: center;
 }
 
+main section:last-child {
+    margin: 15px;
+}
+
 footer {
     height: 15vh;
     display: flex;
