@@ -5,7 +5,7 @@ template.innerHTML = `
     <header>
         <section>
             <a href="/"><figure>🎬</figure></a>
-            <a href="/"><h1>THonly™ Studios</h1></a>
+            <a href="/"><h1>THonly™</h1></a>
         </section>
         <input id="menu-toggle" type="checkbox">
         <label class='menu-button-container' for="menu-toggle">
@@ -14,7 +14,7 @@ template.innerHTML = `
         <nav>
             <ul>
                 <li>
-                    <h3>Music</h3>
+                    <h3>Music Studio</h3>
                     <div>
                         <a href="#coupon"><button>Kiitos.Earth</button></a>
                         <h4>Inclusion & Diversity</h4>
@@ -34,7 +34,7 @@ template.innerHTML = `
             </ul>
             <ul>
                 <li>
-                    <h3>Animation</h3>
+                    <h3>Animation Studio</h3>
                     <div>
                         <a href="#ios-cohort"><button>HeartBank.Net</button></a>
                         <h4>Explorer</h4>
@@ -62,7 +62,7 @@ template.innerHTML = `
             </ul>
             <ul>
                 <li>
-                    <h3>Metaverse</h3>
+                    <h3>Metaverse Studio</h3>
                     <div>
                         <a href="#coupon"><button>HeartBank.Domains</button></a>
                         <h4>Browser</h4>
@@ -82,7 +82,7 @@ template.innerHTML = `
             </ul>
             <ul>
                 <li>
-                    <h3>Film</h3>
+                    <h3>Film Studio</h3>
                     <div>
                         <a href="#backend-cohort"><button>333.eco</button></a>
                         <h4>Wallet</h4>
