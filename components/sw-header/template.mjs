@@ -16,8 +16,8 @@ template.innerHTML = `
                 <li>
                     <h3>Music Studio</h3>
                     <div>
-                        <a href="#coupon"><button>Kiitos.Earth</button></a>
-                        <h4>Inclusion & Diversity</h4>
+                        <a href="#Music.Thonly.com"><button>Music.Thonly.com</button></a>
+                        <!--<h4>Inclusion & Diversity</h4>
                         <menu>
                             <li><a>Women & Minorities</a></li>
                             <li><a>Ukrainian Refugees</a></li>
@@ -28,7 +28,9 @@ template.innerHTML = `
                             <li><a>Cambodia</a></li>
                             <li><a>Ukraine</a></li>
                             <li><a>United States</a></li>
-                        </menu>
+                        </menu>-->
+                        <br>
+                        <a href="#Music.HeartBank.Studio"><button>Music.HeartBank.Studio</button></a>
                     </div>
                 </li>
             </ul>
@@ -36,8 +38,8 @@ template.innerHTML = `
                 <li>
                     <h3>Animation Studio</h3>
                     <div>
-                        <a href="#ios-cohort"><button>HeartBank.Net</button></a>
-                        <h4>Explorer</h4>
+                        <a href="#Animation.Thonly.com"><button>Animation.Thonly.com</button></a>
+                        <!--<h4>Explorer</h4>
                         <menu>
                             <li><a>Watch Videos on Udemy</a></li>
                             <li><a>Read Textbook on Medium</a></li>
@@ -56,7 +58,9 @@ template.innerHTML = `
                             <li><a>Syntax Flashcards</a></li>
                             <li><a>Students' Writings on Medium</a></li>
                             <li><a>Mock Interviews on YouTube</a></li>
-                        </menu>
+                        </menu>-->
+                        <br>
+                        <a href="#Animation.HeartBank.Studio"><button>Animation.HeartBank.Studio</button></a>
                     </div>
                 </li>
             </ul>
@@ -64,8 +68,8 @@ template.innerHTML = `
                 <li>
                     <h3>Metaverse Studio</h3>
                     <div>
-                        <a href="#coupon"><button>HeartBank.Domains</button></a>
-                        <h4>Browser</h4>
+                        <a href="#Metaverse.Thonly.com"><button>Metaverse.Thonly.com</button></a>
+                        <!--<h4>Browser</h4>
                         <menu>
                             <li><a>Women & Minorities</a></li>
                             <li><a>Ukrainian Refugees</a></li>
@@ -76,7 +80,9 @@ template.innerHTML = `
                             <li><a>Cambodia</a></li>
                             <li><a>Ukraine</a></li>
                             <li><a>United States</a></li>
-                        </menu>
+                        </menu>-->
+                        <br>
+                        <a href="#Metaverse.HeartBank.Studio"><button>Metaverse.HeartBank.Studio</button></a>
                     </div>
                 </li>
             </ul>
@@ -84,8 +90,8 @@ template.innerHTML = `
                 <li>
                     <h3>Film Studio</h3>
                     <div>
-                        <a href="#backend-cohort"><button>333.eco</button></a>
-                        <h4>Wallet</h4>
+                        <a href="#Film.Thonly.com"><button>Film.Thonly.com</button></a>
+                        <!--<h4>Wallet</h4>
                         <menu>
                             <li><a>Watch Videos on Udemy</a></li>
                             <li><a>Read Textbook on Medium</a></li>
@@ -97,7 +103,9 @@ template.innerHTML = `
                             <li><a href="#backend-code">Interactive Coding Exercises</a></li>
                             <li><a>Remote Pair Programming on Discord</a></li>
                             <li><a>Students' Solo Projects on Replit</a></li>
-                        </menu>
+                        </menu>-->
+                        <br>
+                        <a href="#Film.HeartBank.Studio"><button>Film.HeartBank.Studio</button></a>
                     </div>
                 </li>
             </ul>
