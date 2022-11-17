@@ -17,7 +17,7 @@ template.innerHTML = `
             <li>
                 <h3>Music Studio</h3>
                 <nav>
-                    <a href="#Music.Thonly.com"><button>Music.Thonly.com</button></a>
+                    <a href="#Music.Thonly.com"><button class="cohort">Music.Thonly.com</button></a>
                     <!--<h4>Inclusion & naversity</h4>
                     <menu>
                         <li><a>Women & Minorities</a></li>
@@ -37,7 +37,7 @@ template.innerHTML = `
             <li>
                 <h3>Animation Studio</h3>
                 <nav>
-                    <a href="#Animation.Thonly.com"><button>Animation.Thonly.com</button></a>
+                    <a href="#Animation.Thonly.com"><button class="cohort">Animation.Thonly.com</button></a>
                     <!--<h4>Explorer</h4>
                     <menu>
                         <li><a>Watch Videos on Udemy</a></li>
@@ -65,7 +65,7 @@ template.innerHTML = `
             <li>
                 <h3>Metaverse Studio</h3>
                 <nav>
-                    <a href="#Metaverse.Thonly.com"><button>Metaverse.Thonly.com</button></a>
+                    <a href="#Metaverse.Thonly.com"><button class="cohort">Metaverse.Thonly.com</button></a>
                     <!--<h4>Browser</h4>
                     <menu>
                         <li><a>Women & Minorities</a></li>
@@ -85,7 +85,7 @@ template.innerHTML = `
             <li>
                 <h3>Film Studio</h3>
                 <nav>
-                    <a href="#Film.Thonly.com"><button>Film.Thonly.com</button></a>
+                    <a href="#Film.Thonly.com"><button class="cohort">Film.Thonly.com</button></a>
                     <!--<h4>Wallet</h4>
                     <menu>
                         <li><a>Watch Videos on Udemy</a></li>
