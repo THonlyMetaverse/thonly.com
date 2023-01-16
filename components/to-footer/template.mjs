@@ -36,6 +36,14 @@ template.innerHTML = `
                     </ul> 
                 </div>-->
                 <div>
+                    <h5>Build</h5>
+                    <ul>
+                        <li><a href="#">Video Tutorials</a></li>
+                        <li><a href="#">Developer Tools</a></li>
+                        <li><a href="#">API Documentation</a></li>
+                    </ul>
+                </div>
+                <div>
                     <h5>Contact</h5>
                     <ul>
                         <li><a href="mailto:studios@thonly.com">studios@thonly.com</a></li>
