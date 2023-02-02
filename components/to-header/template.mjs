@@ -6,8 +6,8 @@ template.innerHTML = `
     <link rel="stylesheet" href="components/to-header/shadow.css">
     <header>
         <section>
-            <a href="/"><figure>🎬</figure></a>
-            <a href="/"><h1>THonly™ Studios</h1></a>
+            <a href="#"><figure>🎬</figure></a>
+            <h1>THonly™ Studios</h1>
         </section>
         <input id="menu-toggle" type="checkbox">
         <label class='menu-button-container' for="menu-toggle">
@@ -17,7 +17,7 @@ template.innerHTML = `
             <li>
                 <h3>Music Studio</h3>
                 <nav>
-                    <a href="#Music.Thonly.com"><button class="cohort">Music.Thonly.com</button></a>
+                    <a href="https://music.thonly.com"><button class="cohort">Music.THonly.com</button></a>
                     <!--<h4>Inclusion & naversity</h4>
                     <menu>
                         <li><a>Women & Minorities</a></li>
@@ -31,13 +31,13 @@ template.innerHTML = `
                         <li><a>United States</a></li>
                     </menu>-->
                     <br>
-                    <a href="#Music.HeartBank.Studio"><button>Music.HeartBank.Studio</button></a>
+                    <a href="https://music.heartbank.studio"><button>Music.HeartBank.Studio</button></a>
                 </nav>
             </li>
             <li>
                 <h3>Animation Studio</h3>
                 <nav>
-                    <a href="#Animation.Thonly.com"><button class="cohort">Animation.Thonly.com</button></a>
+                    <a href="https://animation.thonly.com"><button class="cohort">Animation.THonly.com</button></a>
                     <!--<h4>Explorer</h4>
                     <menu>
                         <li><a>Watch Videos on Udemy</a></li>
@@ -59,13 +59,13 @@ template.innerHTML = `
                         <li><a>Mock Interviews on YouTube</a></li>
                     </menu>-->
                     <br>
-                    <a href="#Animation.HeartBank.Studio"><button>Animation.HeartBank.Studio</button></a>
+                    <a href="https://animation.heartbank.studio"><button>Animation.HeartBank.Studio</button></a>
                 </nav>
             </li>
             <li>
                 <h3>Metaverse Studio</h3>
                 <nav>
-                    <a href="#Metaverse.Thonly.com"><button class="cohort">Metaverse.Thonly.com</button></a>
+                    <a href="https://metaverse.thonly.com"><button class="cohort">Metaverse.THonly.com</button></a>
                     <!--<h4>Browser</h4>
                     <menu>
                         <li><a>Women & Minorities</a></li>
@@ -79,13 +79,13 @@ template.innerHTML = `
                         <li><a>United States</a></li>
                     </menu>-->
                     <br>
-                    <a href="#Metaverse.HeartBank.Studio"><button>Metaverse.HeartBank.Studio</button></a>
+                    <a href="https://metaverse.heartbank.studio"><button>Metaverse.HeartBank.Studio</button></a>
                 </nav>
             </li>
             <li>
                 <h3>Film Studio</h3>
                 <nav>
-                    <a href="#Film.Thonly.com"><button class="cohort">Film.Thonly.com</button></a>
+                    <a href="https://film.thonly.com"><button class="cohort">Film.THonly.com</button></a>
                     <!--<h4>Wallet</h4>
                     <menu>
                         <li><a>Watch Videos on Udemy</a></li>
@@ -100,7 +100,7 @@ template.innerHTML = `
                         <li><a>Students' Solo Projects on Replit</a></li>
                     </menu>-->
                     <br>
-                    <a href="#Film.HeartBank.Studio"><button>Film.HeartBank.Studio</button></a>
+                    <a href="https://film.heartbank.studio"><button>Film.HeartBank.Studio</button></a>
                 </nav>
             </li>
         </ul>
