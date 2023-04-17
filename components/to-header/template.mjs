@@ -30,9 +30,9 @@ template.innerHTML = `
                             <li><a>Cambodia</a></li>
                             <li><a>Ukraine</a></li>
                             <li><a>United States</a></li>
-                        </menu>-->
+                        </menu>
                         <br>
-                        <a href="https://music.heartbank.studio"><button>Music.HeartBank.Studio</button></a>
+                        <a href="https://music.heartbank.studio"><button>Music.HeartBank.Studio</button></a>-->
                     </nav>
                 </li>
                 <li>
@@ -58,9 +58,9 @@ template.innerHTML = `
                             <li><a>Syntax Flashcards</a></li>
                             <li><a>Students' Writings on Medium</a></li>
                             <li><a>Mock Interviews on YouTube</a></li>
-                        </menu>-->
+                        </menu>
                         <br>
-                        <a href="https://animation.heartbank.studio"><button>Animation.HeartBank.Studio</button></a>
+                        <a href="https://animation.heartbank.studio"><button>Animation.HeartBank.Studio</button></a>-->
                     </nav>
                 </li>
                 <li>
@@ -78,9 +78,9 @@ template.innerHTML = `
                             <li><a>Cambodia</a></li>
                             <li><a>Ukraine</a></li>
                             <li><a>United States</a></li>
-                        </menu>-->
+                        </menu>
                         <br>
-                        <a href="https://metaverse.heartbank.studio"><button>Metaverse.HeartBank.Studio</button></a>
+                        <a href="https://metaverse.heartbank.studio"><button>Metaverse.HeartBank.Studio</button></a>-->
                     </nav>
                 </li>
                 <li>
@@ -99,9 +99,9 @@ template.innerHTML = `
                             <li><a href="#backend-code">Interactive Coding Exercises</a></li>
                             <li><a>Remote Pair Programming on Discord</a></li>
                             <li><a>Students' Solo Projects on Replit</a></li>
-                        </menu>-->
+                        </menu>
                         <br>
-                        <a href="https://film.heartbank.studio"><button>Film.HeartBank.Studio</button></a>
+                        <a href="https://film.heartbank.studio"><button>Film.HeartBank.Studio</button></a>-->
                     </nav>
                 </li>
             </ul>
