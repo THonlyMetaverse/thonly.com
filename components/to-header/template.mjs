@@ -64,26 +64,6 @@ template.innerHTML = `
                     </nav>
                 </li>
                 <li>
-                    <h3>Metaverse Studio</h3>
-                    <nav>
-                        <a href="https://metaverse.thonly.com"><button class="cohort">Metaverse.THonly.com</button></a>
-                        <!--<h4>Browser</h4>
-                        <menu>
-                            <li><a>Women & Minorities</a></li>
-                            <li><a>Ukrainian Refugees</a></li>
-                            <li><a>Cambodian Genocide</a></li>
-                        </menu>
-                        <h4>DNS</h4>
-                        <menu>
-                            <li><a>Cambodia</a></li>
-                            <li><a>Ukraine</a></li>
-                            <li><a>United States</a></li>
-                        </menu>
-                        <br>
-                        <a href="https://metaverse.heartbank.studio"><button>Metaverse.HeartBank.Studio</button></a>-->
-                    </nav>
-                </li>
-                <li>
                     <h3>Film Studio</h3>
                     <nav>
                         <a href="https://film.thonly.com"><button class="cohort">Film.THonly.com</button></a>
@@ -102,6 +82,32 @@ template.innerHTML = `
                         </menu>
                         <br>
                         <a href="https://film.heartbank.studio"><button>Film.HeartBank.Studio</button></a>-->
+                    </nav>
+                </li>
+                <li>
+                    <h3>VR Studio</h3>
+                    <nav>
+                        <a href="https://vr.thonly.com"><button class="cohort">VR.THonly.com</button></a>
+                        <!--<h4>Browser</h4>
+                        <menu>
+                            <li><a>Women & Minorities</a></li>
+                            <li><a>Ukrainian Refugees</a></li>
+                            <li><a>Cambodian Genocide</a></li>
+                        </menu>
+                        <h4>DNS</h4>
+                        <menu>
+                            <li><a>Cambodia</a></li>
+                            <li><a>Ukraine</a></li>
+                            <li><a>United States</a></li>
+                        </menu>
+                        <br>
+                        <a href="https://metaverse.heartbank.studio"><button>Metaverse.HeartBank.Studio</button></a>-->
+                    </nav>
+                </li>
+                <li>
+                    <h3>AR Studio</h3>
+                    <nav>
+                        <a href="https://ar.thonly.com"><button class="cohort">AR.THonly.com</button></a>
                     </nav>
                 </li>
             </ul>
