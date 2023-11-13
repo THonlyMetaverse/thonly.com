@@ -6,8 +6,8 @@ template.innerHTML = `
     <link rel="stylesheet" href="components/to-header/shadow.css">
     <header>
         <section>
-            <a href="#"><figure>🎬</figure></a>
-            <h1>THonly™ Studios</h1>
+            <a href="#"><figure>🏟️</figure></a>
+            <h1>THonly™ Gyms</h1>
         </section>
         <input id="menu-toggle" type="checkbox">
         <label class='menu-button-container' for="menu-toggle">
@@ -16,9 +16,9 @@ template.innerHTML = `
         <div>
             <ul>
                 <li>
-                    <h3>Music Studio</h3>
+                    <h3>USA</h3>
                     <nav>
-                        <a href="https://music.thonly.com"><button class="cohort">Music.THonly.com</button></a>
+                        <a><button class="cohort">Join Gym</button></a>
                         <!--<h4>Inclusion & naversity</h4>
                         <menu>
                             <li><a>Women & Minorities</a></li>
@@ -36,9 +36,9 @@ template.innerHTML = `
                     </nav>
                 </li>
                 <li>
-                    <h3>Animation Studio</h3>
+                    <h3>LATAM</h3>
                     <nav>
-                        <a href="https://animation.thonly.com"><button class="cohort">Animation.THonly.com</button></a>
+                        <a><button class="cohort">Join Gym</button></a>
                         <!--<h4>Explorer</h4>
                         <menu>
                             <li><a>Watch Videos on Udemy</a></li>
@@ -64,9 +64,9 @@ template.innerHTML = `
                     </nav>
                 </li>
                 <li>
-                    <h3>Film Studio</h3>
+                    <h3>Ukraine</h3>
                     <nav>
-                        <a href="https://film.thonly.com"><button class="cohort">Film.THonly.com</button></a>
+                        <a><button class="cohort">Join Gym</button></a>
                         <!--<h4>Wallet</h4>
                         <menu>
                             <li><a>Watch Videos on Udemy</a></li>
@@ -85,9 +85,9 @@ template.innerHTML = `
                     </nav>
                 </li>
                 <li>
-                    <h3>VR Studio</h3>
+                    <h3>Cambodia</h3>
                     <nav>
-                        <a href="https://vr.thonly.com"><button class="cohort">VR.THonly.com</button></a>
+                        <a><button class="cohort">Join Gym</button></a>
                         <!--<h4>Browser</h4>
                         <menu>
                             <li><a>Women & Minorities</a></li>
@@ -102,12 +102,6 @@ template.innerHTML = `
                         </menu>
                         <br>
                         <a href="https://metaverse.heartbank.studio"><button>Metaverse.HeartBank.Studio</button></a>-->
-                    </nav>
-                </li>
-                <li>
-                    <h3>AR Studio</h3>
-                    <nav>
-                        <a href="https://ar.thonly.com"><button class="cohort">AR.THonly.com</button></a>
                     </nav>
                 </li>
             </ul>

@@ -46,7 +46,7 @@ template.innerHTML = `
                 <div>
                     <h5>Contact</h5>
                     <ul>
-                        <li><a href="mailto:studios@thonly.com">studios@thonly.com</a></li>
+                        <li><a href="mailto:gyms@thonly.com">gyms@thonly.com</a></li>
                     </ul>
                 </div>
             </section>
