@@ -14,13 +14,13 @@ template.innerHTML = `
                 <div>
                     <h5>Thank</h5>
                     <ul>
-                        <li><a href="https://dear.kiitos.earth/#THonly">Kiitos</a></li>
+                    <li><a href="https://heartbank.ceo/#THonly">HeartBank</a></li>
                     </ul>
                 </div>
                 <div>
                     <h5>Sponsor</h5>
                     <ul>
-                        <li><a href="https://heartbank.fund/#THonly">HeartBank</a></li>
+                        <li><a href="https://github.com/thonlymetaverse">GitHub</a></li>
                     </ul> 
                 </div>
             </section>
